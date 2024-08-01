@@ -5,8 +5,7 @@ Consiste em um jogo que em o usuário deve acertar qual foi o número secreto so
 
 
 ## Screenshots
-
-![App Screenshot](./.foto)
+![App Screenshot](./.github/foto.png)
 
 [🔗 clique aqui para acessar](https://jogo-do-numero-secreto-eight-tau.vercel.app/)
 
